@@ -1,6 +1,7 @@
 ---
 title: About
 author: Thomas Goossens
+date: '2017-04-01'
 ---
 
 Hi & Welcome on my personnal page,
@@ -8,24 +9,6 @@ Hi & Welcome on my personnal page,
 I'm Thomas, a former Glaciologist with a background in physical geography currently developing skills in supervised machine learning applied to spatial predictions using open source data analysis and GIS software (mainly R).
 
 I'm currently working at [CRA-W](http://www.cra.wallonie.be/fr) on the Agromet project  which aims to spatialize weather data in Wallonia (Belgium).  
-
-# Quelques lignes à propos de moi
-
-Je suis géographe, mais pas seulement :
-
-Géographe/ Codeur/ Wwoofeur/ Rédacteur/ Athlète
-
-J'aime m’évader en montagne, courir en forêt, me faufiler en ville sur mon vélo, mettre les mains dans la terre, méditer sur une slackline, philosopher sur [l'origine du monde](http://www.numerama.com/sciences/201054-vivons-nous-dans-une-simulation-elon-musk-semble-avoir-relance-le-debat.html) et le sens de la vie, créer des [playlists](https://open.spotify.com/user/pokyah), débattre sur le modèle économique de notre société, concevoir et développer des solutions géomatiques open-source et coder pour le web.
-
-Ma prise de conscience quant aux [limites à la croissance](http://petrole.blog.lemonde.fr/2014/04/19/gael-giraud-du-cnrs-le-vrai-role-de-lenergie-va-obliger-les-economistes-a-changer-de-dogme/), à [l'effondrement économique](http://www.lecontrarien.com/comment-vous-preparer-a-leffondrement-economique-22-01-2014-edito) et à la destruction de l'emploi par [l'automatisation 2.0](http://www.culturemobile.net/visions/bernard-stiegler-emploi-est-mort-vive-travail) m'ont conduit à mener une importante réflexion quant aux solutions d'adaptation à mettre en place tant au niveau individuel que collectif.
-
-Depuis, je me passionne pour l’économie collaborative, la transition, la démocratie participative ([liquide](https://framablog.org/2015/12/09/democratie-liquide/) ?) et la façon dont internet et l’open-source peuvent en [favoriser l'émergence](https://ploum.net/il-faudra-la-construire-sans-eux/). C'est ce qui m'a conduit à me pencher sur les [crypto-monnaies](http://magazine.ouishare.net/2013/05/bitcoin-human-based-digital-currency/) et de la technologie [blockchain](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e).
-
-# Ma vision du travail
-
-Je ne pourrai mieux dire que Bernard Stiegler :
-
-  > « Le travail, c’est ce par quoi on cultive un savoir, quel qu’il soit, en accomplissant quelque chose. Picasso fait de la peinture, par exemple. Moi, mon jardin. Cela m’apporte quelque chose. Je ne fais pas mon jardin simplement pour avoir des carottes – je cultive par là un savoir du vivant végétal, que je peux partager avec des jardiniers comme des botanistes, etc. Si j’écris des livres, si je participe au site Wikipédia, ou si je développe un logiciel libre, ce n’est pas d’abord pour obtenir un salaire : c’est pour m’enrichir en un sens beaucoup plus riche que le célèbre “Enrichissez-vous”, et peut-être aussi gagner ou économiser un peu d’argent à cette occasion, mais surtout me construire et m’épanouir dans la vie (…). » 
 
 
 

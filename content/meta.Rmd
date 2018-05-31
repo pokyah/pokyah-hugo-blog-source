@@ -1,6 +1,7 @@
 ---
 title: Meta
 author: Thomas Goossens
+date: '2017-04-01'
 ---
 
 # Why this website ? 
@@ -9,11 +10,9 @@ A website is highly useful for yourself to keep track of what you have done and 
 
 # How is it built ? 
 
-This website is built with R blogdown which uses a combination of Hugo, Rmarkdown and knitr. 
+This website is built with [<i class="fab fa-r-project"></i> blogdown](https://bookdown.org/yihui/blogdown/) which uses a combination of Hugo, Rmarkdown and knitr. 
 
-Its source code is publicly availbale on [github](https://pokyah.github.io/agrometeor-methodo-spatial). Don't hesitate to fork, appropriate, edit and improve. 
-
-This site is available under the [GNU-GPL V3](https://www.gnu.org/licenses/gpl-3.0.en.html) license and comes with ABSOLUTELY NO WARRANTY.
+Its source code is publicly availbale on [github](https://github.com/pokyah-hugo-blog-source). Don't hesitate to fork, appropriate, edit and improve. 
 
 Copyright : Thomas Goossens - hello.pokyah@gmail.com
  
