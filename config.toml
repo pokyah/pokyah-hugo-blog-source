@@ -10,7 +10,7 @@ googleAnalytics = ""
 [params]
     author = "Thomas Goossens"
     description = "Geographer/Data-analyst/Geostatistician @ CRA-W"
-    githubUsername = "#"
+    githubUsername = "pokyah"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
