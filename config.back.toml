@@ -1,0 +1,56 @@
+## Basic Configuration
+baseurl = "/"
+relativeurls = true
+languageCode = "en"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+theme = "minimal"
+
+## Hugo Built-in Features
+disqusShortname = "pokyah-github-io"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+    author = "thomas Goossens"
+    title = "pokyah"
+    description = "Geographer/Data-analyst/Geostatistician @ CRA-W"
+    authorimage = "/img/profile.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id" 
+
+## Social Accounts
+[params.social]
+    github = "pokyah"
+    spotify = "pokyah"
+    linkedin = "thomasgoossens1985"
+    stackoverflow = "pokyah"
+    email = "hello.pokyah@gmail.com"
+    
+## Logo 
+[params.logo]
+    url = "profile.png"
+    width = 50
+    height = 50
+    alt = "Thomas Goossens"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/post/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/index.html"
+[[menu.main]]
+    name = "meta"
+    identifier = "meta"
+    weight = 200
+    url = "/meta/"
+

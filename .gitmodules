@@ -2,6 +2,10 @@
   path = themes/hyde-hyde
   url = https://github.com/pokyah/hyde-hyde.git
 
+[submodule "themes/hugo-coder"]
+  path = themes/hugo-coder
+  url = https://github.com/pokyah/hugo-coder.git
+
 [submodule "public"]
 	path = public
 	url = git@github.com:pokyah/pokyah.github.io.git
